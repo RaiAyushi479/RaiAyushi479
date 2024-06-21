@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushi Rai</h1>
 <h3 align="center">A passionate Full stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6c3198f753c2de8f79a350a9e7deb51692cc53a8991f0cb65ab121cd35ea586c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagargour&label=Profile%20views&color=0e75b6&style=flat" alt="sagargour" /> </p>
 
